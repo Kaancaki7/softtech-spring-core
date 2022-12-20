@@ -1,5 +1,7 @@
 package com.softtech.model;
 
+import org.springframework.stereotype.Component;
+@Component
 public class Service {
 
     private Dao dao;
