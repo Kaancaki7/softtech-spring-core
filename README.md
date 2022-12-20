@@ -1,0 +1,1 @@
+#softtech-spring-core
